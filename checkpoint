@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\PY\\Le_Net_zf\\save\\model.ckpt-30000"
+all_model_checkpoint_paths: "G:\\PY\\Le_Net_zf\\save\\model.ckpt-30000"
